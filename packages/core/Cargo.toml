@@ -1,0 +1,9 @@
+[package]
+name = "core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+kivql = { path = "../kivql" }
+thiserror = "1.0.40"
+storage = { path = "../storage" }

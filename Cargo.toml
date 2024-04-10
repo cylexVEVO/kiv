@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "packages/kivql",
+    "packages/core",
+    "packages/json-server",
+    "packages/storage"
+]
+resolver = "2"
